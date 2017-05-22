@@ -1,6 +1,6 @@
 # Linux-Server-Configuration Udacity
 Done using Digital Ocean and ip address is :http://45.55.47.62/
-ssh port to login is : ssh grader@45.55.47.62 -p 2200
+ssh port to login is : `ssh grader@45.55.47.62 -p 2200`
 # Summary
 - Add a new user grader using `sudo adduser grader`
 - Give grader sudo permission
